@@ -1,0 +1,4 @@
+rootProject.name = 'spring-webflux-demo'
+include 'spring-webflux-demo-server'
+include 'spring-webflux-demo-client'
+include 'spring-webflux-demo-common'
